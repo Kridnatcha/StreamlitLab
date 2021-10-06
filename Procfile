@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Siraphop_Streamlit.py
+web: sh setup.sh && streamlit run kridnatcha_lab_Streamlit.py
